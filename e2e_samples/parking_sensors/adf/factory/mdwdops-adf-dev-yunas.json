@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-yunas",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4df4136-2df8-431a-814a-0c8b6611bd4d",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
