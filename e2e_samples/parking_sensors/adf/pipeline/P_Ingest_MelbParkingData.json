@@ -30,7 +30,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/notebooks/02_standardize",
+					"notebookPath": "/releases/dev/02_standardize",
 					"baseParameters": {
 						"infilefolder": {
 							"value": "@variables('infilefolder')",
@@ -202,7 +202,7 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/notebooks/03_transform",
+					"notebookPath": "/releases/dev/03_transform",
 					"baseParameters": {
 						"loadid": {
 							"value": "@pipeline().RunId",
