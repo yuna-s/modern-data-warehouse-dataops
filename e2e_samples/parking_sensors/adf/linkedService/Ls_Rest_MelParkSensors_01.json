@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://raw.githubusercontent.com/Azure-Samples/modern-data-warehouse-dataops/refs/heads/main/e2e_samples/parking_sensors/src/ddo_transform/data/MelbParkingSensorData.json",
+			"url": "https://raw.githubusercontent.com/Azure-Samples/modern-data-warehouse-dataops/refs/heads/main/e2e_samples/parking_sensors/src/ddo_transform/data/",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
