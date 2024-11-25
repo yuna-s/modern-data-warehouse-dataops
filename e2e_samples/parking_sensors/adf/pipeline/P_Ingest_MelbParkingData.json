@@ -109,7 +109,7 @@
 						"referenceName": "Ds_REST_MelbParkingData",
 						"type": "DatasetReference",
 						"parameters": {
-							"relativeurl": "dtpv-d4pf.json"
+							"relativeurl": "MelbParkingSensorData.json"
 						}
 					}
 				],
@@ -163,7 +163,7 @@
 						"referenceName": "Ds_REST_MelbParkingData",
 						"type": "DatasetReference",
 						"parameters": {
-							"relativeurl": "wuf8-susg.json"
+							"relativeurl": "MelbParkingBayData.json"
 						}
 					}
 				],
